@@ -6,9 +6,38 @@ The API is discribed and accessible at https://doc.eliot.in/inmarsat_pixels_camp
 
 An API key will be provided to the participants by inmarsat team.
 
+
+## Devices
+
+### Around the world
+
+Those sensors are deployed on the field by inmarsat team:
+  - 000DB53112713543: CO2, temperature & humidity sensor
+  - 000DB5311380356A: CO, temperature & humidity
+
+### At fieldcloud's office
+
+Those sensors are deployed at fieldcloud's office:
+  -	3K16E00000: Temperature & Humidity
+  - 3K16E00017: GPS
+  - 3K16E00018: Light
+  - 3K16E00019: Barometer
+  - 3K16E00020: Loudness
+  - 3K16E00021: Gas & Smoke
+  - 3K16E00022: Temperature & Humidity
+  - 3K16E00023: Distance & Passages
+  - 3K16E00024: Temperature & Humidity
+Maybe you try to know when the team is working or not...  
+
+### Your team device
+
+Kits have been provided to participants with material to create LoRa sensors, their id is the serial of the kit.
+
 ## Data format
 
-Datasets are available in 2 formats :
+Datasets are available in 2 formats:
+  - eliot: data treated by fieldcloud for experimental use with payload transformation
+  - native: data from inmarsat IoT platform
 
 ### eliot format
 
@@ -24,4 +53,10 @@ To access those data, use the GET /data/{device_id} method where device_id corre
 
 To access original dataset sended by inmarsat's platform, use the GET /data/{device_id}/original method.
 
+
+## Visualization
+
+An example of what can be done to visualize data from sensor is available at this URL : https://freeboard.io/board/UdE_ZW
+
+Data comes from sensor 000DB53112713543, which provides CO2 level, temperature and humidity measurements. Location is LoRa basestation's.
 
