@@ -9,10 +9,10 @@ Smart Cities and Connected Communities promise to improve citizen wellbeing. Inm
 
 ### Possible use cases
 
-  ─	Roads and traffic – Congestion to poor quality (potholes)  
-  ─	Environmental Pollution – Vehicle Emissions, Cooking Fires to Industrial exhaust  
-  ─	Public Safety – Police/emergency response times  
-  ─	Emergency Response – Emergency communication, rapid deployed response to re-establish order  
+  -	Roads and traffic – Congestion to poor quality (potholes)  
+  -	Environmental Pollution – Vehicle Emissions, Cooking Fires to Industrial exhaust  
+  -	Public Safety – Police/emergency response times  
+  -	Emergency Response – Emergency communication, rapid deployed response to re-establish order  
 
 ### Challenge
 
@@ -47,6 +47,8 @@ The Network Server manages the data intelligence and network complexity and will
 
 ### Data sets
 
+Datasets are provided to participants and accessible via an API. More info in API folder.
 
 ### IoT dev kits
 
+IoT dev kits are provided to participants. More info in kits folder.
