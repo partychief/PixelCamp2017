@@ -58,5 +58,5 @@ To access original dataset sended by inmarsat's platform, use the GET /data/{dev
 
 An example of what can be done to visualize data from sensor is available at this URL : https://freeboard.io/board/UdE_ZW
 
-Data comes from sensor 000DB53112713543, which provides CO2 level, temperature and humidity measurements. Location is LoRa basestation's.
+Data comes from sensor 000DB53112713543, which provides CO2 level, temperature and humidity measurements. Location is LoRa base-station's.
 
