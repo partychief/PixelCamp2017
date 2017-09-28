@@ -7,30 +7,31 @@ Pixel Camp Hackathon
 
 Smart Cities and Connected Communities promise to improve citizen wellbeing. Inmarsat enables smart infrastructure, particularly in developing countries where there is a lack of adequate network connectivity. There is a wide choice of connected things available on the market which can be used to measure stuff in a city. So, we’ve deployed several pilot projects using our satellite and LoRa LPWAN networks with off-the-shelf sensors. But we have a general problem, we haven’t yet found a way to really improve peoples’ lives in the city.
 
-### Possible use cases
-
-  -	Roads and traffic – Congestion to poor quality (potholes)  
-  -	Environmental Pollution – Vehicle Emissions, Cooking Fires to Industrial exhaust  
-  -	Public Safety – Police/emergency response times  
-  -	Emergency Response – Emergency communication, rapid deployed response to re-establish order  
-
 ### Challenge
 
-TODO: add a challenging description...
+Inmarsat **enables and compliments** smart infrastructure, particularly in developing countries where there is a **lack of adequate network** connectivity. But we have a general problem, we haven’t yet found a way to **really improve peoples’ lives in the city**.
+We see the Hackathon as a tool for city **transformation**, and **market Acceleration**, therefore your opportunity to make a difference!
 
-## inmarsat
+And how do you participate to help fix these smart city challenges, let me give you some use cases:
+  -	**Roads and traffic** – Congestion and poor quality roads. How do we improve traffic flows, public transport and roads in general? In Africa roads are chaotic, they are always congested and are often in poor condition (potholes). There are limited ways to know what public transport is available and when.  
+  -	**Environmental Pollution** – Vehicle emissions, cooking fires to industrial waste. Need I say more It’s Africa...    
+  -	**Public Safety** – Police/emergency response times. face it, African cities can be dangerous. I mean really dangerous. Many
+people are too scared to walk outside at night for fear of being robbed or mugged. Police often take far too long to respond so how do we make a difference?
+  -	**Emergency Response** – Emergency communication, rapid deployed response to re-establish order. Reference hurricanes Harvey and Irma recently...
+  
+The field is wide open to create a solution that improves peoples’ lives, on the road, at home or in a public space.
 
-TODO: add a presentation of the company
+## Inmarsat Presentation
+
+[Pixels Camp Presentation](https://github.com/InmarsatSmartCity/PixelCamp2017/blob/master/Inmarsat-JacquesWest-Pitch.pdf)  
 
 ### Satellite communication
 
-TODO: add a presentation of inmarsat activities
+[Inmarsat Web Site](http://www.inmarsat.com)
 
 ### LoRaWAN technology
 
 LoRaWAN™ is a standard adopted by the LoRa Alliance and defines the communication protocol and system architecture for Low Power Wide Area Networks (LPWAN). 
-
- 
 
 Networks are designed from the bottom up to optimize for battery lifetime, capacity, range, and cost and to support a major portion of the sensors and applications connected as the Internet of Things (IoT) that are needed to send small amounts of data over long distances, a few times per hour from varying environments.
 
